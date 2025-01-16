@@ -1,0 +1,24 @@
+#navbar {
+    /* Add styles here */
+}
+
+#introduction {
+    background-color: aqua;
+}
+
+#profile {
+    background-color: aquamarine;
+}
+
+#skills-interests {
+    /* Add styles here */
+}
+
+#footer {
+    /* Add styles here */
+}
+
+.profile-image {
+    border-radius: 60%;
+    height: 300px;
+}
